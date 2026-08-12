@@ -11,16 +11,16 @@
   <img src="https://img.shields.io/badge/STATUS-BUILDING%20AI-22C55E?style=for-the-badge&logo=lightning&logoColor=white" />
 </p>
 
-<!-- SOCIAL BADGES WITH HOVER EFFECTS -->
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/jash-saha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jashsaha917@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://github.com/HaGGARdTREASon"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<!-- ANIMATED GITHUB TROPHIES -->
+<!-- FIXED ANIMATED GITHUB TROPHIES -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=HaGGARdTREASon&theme=darkhub&column=6&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HaGGARdTREASon&theme=darkhub&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </a>
 
 </div>
