@@ -24,14 +24,3 @@
 </a>
 
 </div>
-
----
-
-### 💻 System Terminal HUD
-
-```console
-jash@tactical-desktop:~$ status --profile
-[+] USER: Jash Saha
-[+] ROLE: CSBS Engineer & AIML Developer
-[+] PATENT: Sign Language Translation System (Published)
-[+] CORE_STACK: PyTorch | OpenCV | Python | C++ | MediaPipe
