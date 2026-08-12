@@ -2,7 +2,7 @@
 
 <!-- ANIMATED TYPING HEADER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%9A%80+WELCOME+TO+JASH+SAHA'S+PROFILE+%F0%9F%9A%80;%E2%9A%A1+Computer+Science+%26+Business+Systems+Engineer;%F0%9F%93%9C+Published+Patent+Holder+%7C+Sign+Language+AI;%F0%9F%A7%A0+Computer+Vision+%26+Deep+Learning+Architect;%F0%8F%8F%85+President+%40+Phoenix+CSBS+%7C+VP+%40+Greenovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%9A%80+WELCOME+TO+JASH+SAHA'S+PROFILE+%F0%9F%9A%80;%E2%9A%A1+Computer+Science+%26+Business+Systems+Engineer;%F0%9F%93%9C+Published+Patent+Holder+%7C+Sign+Language+AI;%F0%9F%A7%A0+Computer+Vision+%26+Deep+Learning+Architect" alt="Typing SVG" />
 </a>
 
 <p align="center">
