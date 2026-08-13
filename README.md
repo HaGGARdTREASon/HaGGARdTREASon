@@ -1,9 +1,14 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
+<!-- GRAPHICAL HEADER WITH TWINKLE/WAVE BACKGROUND -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1923,50:8b5cf6,100:0f1923&height=220&section=header&text=JASH%20SAHA&fontSize=52&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Graphic" />
+
+<!-- AUTOMATIC SWIPE-UP TRANSITION TEXT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%9A%80+WELCOME+TO+JASH+SAHA'S+PROFILE+%F0%9F%9A%80;%E2%9A%A1+Computer+Science+%26+Business+Systems+Engineer;%F0%9F%93%9C+Published+Patent+Holder+%7C+Sign+Language+AI;%F0%9F%A7%A0+Computer+Vision+%26+Deep+Learning+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%9A%80+WELCOME+TO+JASH+SAHA'S+Profile;%E2%9A%A1+Computer+Science+%26+Business+Systems+Engineer;%F0%9F%93%9C+Published+Patent+Holder+%7C+Sign+Language+AI;" alt="Swipe Up Text" />
 </a>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LOCATION-KOLKATA%2C%20INDIA-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -24,3 +29,9 @@
 </a>
 
 </div>
+
+<!-- GRAPHICAL BACKGROUND DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8b5cf6&height=4&section=header" width="100%" />
+[+] PATENT: Sign Language Translation System (Published)
+[+] CORE_STACK: PyTorch | OpenCV | Python | C++ | MediaPipe
+[+] AGENT_STATUS: Actively deploying Computer Vision & MoE Neural Networks...
