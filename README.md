@@ -24,11 +24,6 @@
   <a href="https://github.com/HaGGARdTREASon"><img src="https://img.shields.io/badge/GitHub-2A2A2A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<!-- LIGHT-THEMED ANIMATED TROPHY CASE WITH VIOLET BORDERS -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=HaGGARdTREASon&theme=flat&column=6&margin-w=15&margin-h=15&border=7C3AED" alt="GitHub Trophies" />
-</a>
-
 </div>
 
 <!-- GRAPHICAL VIOLET SECTION DIVIDER -->
